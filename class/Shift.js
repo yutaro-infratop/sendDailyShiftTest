@@ -5,15 +5,5 @@ class Shift {
     this.endTime = data[2];
  }
 
-  // isRetired(){
-  //   return this.workStatus === '退職済';
-  // }
 
-  // isActive(){
-  //   return this.workStatus === 'アクティブ';
-  // }
-
-  // isSkillRank(skillRank){
-  //   return this.skillRank === skillRank;
-  // }
 }
